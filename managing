@@ -1,0 +1,4 @@
+git clone https://github.com/coursera-dl/coursera-dl
+cd coursera-dl
+pip3 install -r requirements.txt
+./coursera-dl -u <morsli.mehdi1@gmail.com> -p <family4ever> --subtitle-language en scope-time-management-cost
